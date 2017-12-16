@@ -20,7 +20,7 @@ body {
 
 .guilds-wrapper {
     background: none !important;
-    opacity: 0 !important;
+    opacity: 1 !important;
     transition: 0.4s !important;
 }
 .guilds-wrapper:hover {
@@ -59,7 +59,7 @@ body {
 /* Channels section */
 .channels-wrap, .flex-lFgbSz {
 	background: none !important;
-    opacity: 0 !important;
+    opacity: 1 !important;
     transition: 0.4s !important;
 }
 .channels-wrap:hover, .flex-lFgbSz:hover {
